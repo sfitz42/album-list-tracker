@@ -1,0 +1,20 @@
+{
+  "name": "album-list-tracker",
+  "version": "1.0.0",
+  "description": "Web service to track progress listening to list of albums",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sfitz42/album-list-tracker.git"
+  },
+  "author": "Shaun Fitzsimons (sfitz42)",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/sfitz42/album-list-tracker/issues"
+  },
+  "homepage": "https://github.com/sfitz42/album-list-tracker#readme"
+}
